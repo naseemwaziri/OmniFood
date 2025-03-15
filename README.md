@@ -12,7 +12,7 @@ A modern and responsive food delivery website built with **HTML, CSS, and JavaSc
 ✅ Clean and well-structured code 🔥
 
 ## 📷 Screenshots
-*(Add images or GIFs showcasing your website here)*
+![naseemwaziri github io_OmniFood_](https://github.com/user-attachments/assets/37559074-d7a2-4e0b-a513-0a66d090bc3f)
 
 ## 🛠️ Technologies Used
 - **HTML5** – Structuring the website
