@@ -11,9 +11,6 @@ A modern and responsive food delivery website built with **HTML, CSS, and JavaSc
 ✅ Optimized layout for better user experience 🏆
 ✅ Clean and well-structured code 🔥
 
-## 📷 Screenshots
-![naseemwaziri github io_OmniFood_](https://github.com/user-attachments/assets/37559074-d7a2-4e0b-a513-0a66d090bc3f)
-
 ## 🛠️ Technologies Used
 - **HTML5** – Structuring the website
 - **CSS3** – Styling and animations
@@ -42,6 +39,9 @@ Pull requests are welcome! If you'd like to contribute, follow these steps:
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push to the branch (`git push origin feature-name`)
 5. Open a Pull Request
+
+## 📷 Screenshots
+![naseemwaziri github io_OmniFood_](https://github.com/user-attachments/assets/37559074-d7a2-4e0b-a513-0a66d090bc3f)
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
